@@ -1,4 +1,4 @@
-# Little Lemon Food Ordering App
+# Little Lemon Restaurant Application
 This is the project for Coursera, part of the Meta Android Developer Professional Certificate program. In this project Include Onboarding screen where user can register yourself and Home Screen users allows to browse and filter Little Lemon restaurant's menu and Profile screen where user information show.
 
 ## Previews
