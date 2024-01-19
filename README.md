@@ -2,7 +2,10 @@
 This is the final project for ANDROID App Capstone, part of the Meta ANDROID Developer Professional Certificate program. It allows users to browse Little Lemon restaurant's menu and place orders.
 
 ## Preview
-![Demonstration](https://user-images.githubusercontent.com/93353925/227747468-3e923704-873f-4a06-8bbb-8fad77580034.gif)
+<img  alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/main/Wireframe/OnBoardingScreen.png">
+<img  alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/cc2d3f84f382fda31418fda819b88468255dad65/Wireframe/HomeScreen.png">
+<img  alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/cc2d3f84f382fda31418fda819b88468255dad65/Wireframe/ProfileScreen.png">
+
 ## Features
 - Onboarding screen: prompts users to enter their personal details.
 - Stack navigation: allows users to access the previous screen using the Back button.
