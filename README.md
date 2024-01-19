@@ -1,5 +1,5 @@
 # Little Lemon Food Ordering App
-This is the project for ANDROID App Capstone Coursera, part of the Meta ANDROID Developer Professional Certificate program. In this project Include Onboarding screen where user can register yourself and Home Screen users allows to browse and filter Little Lemon restaurant's menu and Profile screen where user information show.
+This is the project for Coursera, part of the Meta Android Developer Professional Certificate program. In this project Include Onboarding screen where user can register yourself and Home Screen users allows to browse and filter Little Lemon restaurant's menu and Profile screen where user information show.
 
 ## Previews
 <img width="300" alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/main/Wireframe/OnBoardingScreen.png">         
@@ -20,7 +20,7 @@ This is the project for ANDROID App Capstone Coursera, part of the Meta ANDROID 
 ## Wireframe
 The design of the Home screen is based on the following wireframe:
 
-<img width="500" alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/3ea966b4a593e7155b2572b37c096a974ba0a0a4/Wireframe/Home%20Screen%20Structure.png">
+<img width="300" alt="Wireframe" src="https://github.com/HafizHamza19/Little-Lemon-Android-App-Capstone/blob/3ea966b4a593e7155b2572b37c096a974ba0a0a4/Wireframe/Home%20Screen%20Structure.png">
 
 ## Getting Started
 To run the app, you'll need to have Android studio installed. Clone the repository and open the project in Android Studio. Then, build and run the app on a simulator or device.
